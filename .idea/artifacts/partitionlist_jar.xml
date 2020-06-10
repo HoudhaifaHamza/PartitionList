@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="partitionlist:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/partitionlist_jar</output-path>
+    <root id="root">
+      <element id="archive" name="partitionlist.jar">
+        <element id="module-output" name="partitionlist" />
+      </element>
+    </root>
+  </artifact>
+</component>
